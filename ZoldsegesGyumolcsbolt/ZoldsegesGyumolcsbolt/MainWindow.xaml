@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:ZoldsegesGyumolcsbolt"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
+    <Grid >
+        <TextBox Text="Termeke"/>
+        
     </Grid>
 </Window>
